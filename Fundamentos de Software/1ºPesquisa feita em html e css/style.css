@@ -1,0 +1,50 @@
+*{
+    margin: 1%;
+}
+
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.sub{
+    text-align: center;
+    color: rgb(63, 63, 63);
+}
+
+body{
+    background-color: rgb(252, 252, 242);
+}
+
+.com{
+    display: flex
+    
+}
+
+.seg{
+    display: flex;
+}
+.cd{
+    margin-left: 
+    30px;
+}
+
+.Scrum{
+    display: flex;
+}
+
+.OS{
+    margin-right: 20px;
+}
+
+.MS{
+    margin-left: 20px;
+}
+
+.vertical{
+    height: 300px;
+    border-left:  2px solid black;
+    margin-left: -3px
+    position: absolute;
+    left: 50%
+}
